@@ -63,4 +63,3 @@ Model behavior with PCA-transformed data
 
 The trade-off between model complexity and accuracy
 
-- 
