@@ -6,7 +6,9 @@ To build a predictive model using machine learning that forecasts whether it wil
 
 ## 📊 Dataset Description
 Source: Kaggle / Meteorological Department Dataset (CSV format)
+
 Rows: 14,000+ entries
+
 Features:Date, Location, MinTemp, MaxTemp, Rainfall, Evaporation, Sunshine, WindGustDir, WindGustSpeed, Humidity9am, Humidity3pm, Pressure9am, Temp3pm, RainToday, RainTomorrow (Target)
 
 ## 💻 Technologies Used
@@ -43,6 +45,7 @@ Models were evaluated using:
 - F1 Score
 - Confusion Matrix
 - ROC Curve & AUC Score
+- 
 ## ✅ Results
 ![image](https://github.com/user-attachments/assets/a232be7f-3cc6-4147-bd6a-e948605ec570)
 
